@@ -21,12 +21,12 @@ repository               : "Gulzar1911/Gulzar_Ali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo-3.jpg"
+  avatar           : "bio-photo-3.jpg"
   name             : "Gulzar Ali"
   pronouns         : #
   bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Multiphysics Simulations | Finite Element Analyses | Numerical Modelling | Data-Driven CFD"
   location         : "Islamabad, Pakistan"
-  employer         : "National University of Sciences and Technology"
+  employer         : "School of Interdisciplinary Engineering and Sciences (SINES), NUST"
   uri              : # URL
   email            : "gulzarali05@gmail.com"
 
