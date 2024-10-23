@@ -21,7 +21,7 @@ repository               : "Gulzar1911/Gulzar_Ali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo-3.png"
+  avatar           : "images/bio-photo-3.jpg"
   name             : "Gulzar Ali"
   pronouns         : #
   bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Multiphysics Simulations | Finite Element Analyses | Numerical Modelling | Data-Driven CFD"
