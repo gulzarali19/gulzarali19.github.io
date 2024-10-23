@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computational Sciences and Engineering , University of Sciecnes and Technology, Islamabad, 2025
-* B.S. in Mechanical Engineering, University of Engineering and Technology, Lahore, 2022
+* M.S. in Computational Sciences and Engineering , University of Sciences and Technology, Islamabad
+* B.S. in Mechanical Engineering, University of Engineering and Technology, Lahore
 
 Work experience
 ======
@@ -20,7 +20,7 @@ Work experience
   * Freelancer 
   * Duties includes: Teaching and assistance in CFD Simulations using different CFD Tools
   * Core Areas: Computational Fluid Dynamics, Finite Element Analysis, Linear Algebra
-  * CFD Tools: ANSYS Fluent, COMSOL Multiphysics, OpenFOAM
+  * CFD Tools: ANSYS, COMSOL Multiphysics, OpenFOAM
 
 * Spring 2024: Graduate Research Assistant
   * National University of Sciences and Technology
@@ -31,19 +31,28 @@ Work experience
   * DenseFusion
   * Duties included: Developed ANSYS Fluent Cases on Aerodynamics, Developed parallel running codes on Advection-Diffusion Equations
   * Supervisor: Dr. Rooh Khurram (KAUST) and Dr. Mohsin Ahmad Sheikh (KAUST)
-  
-Certifications/ Skills 
+
+Skills
+======
+* 
+
+Certifications
 ======
 * The DataScience BootCamp 2022 (365DataScience)
+-----
   * Machine Learning
   * Statistical Data Analysis
   * Data Visualization
 * Foundations of Project Management 2022 (Google)
+------
   * Project Life-cycle
   * Risk Management
   * Agile Methodology
 * How to write and Publish a Scientific Paper 2022 (Ecole Polytechnique)
-  
+----
+  * Literature Review
+  * Manuscript Preparation
+  * Peer Review Process
 Service and leadership
 ======
-* Currently actively part of CFD team provide Simulation and Modelling Services for Academic Students and Industry Professionals. Our Core Areas include Multiphase flows, Aerodynamics, CAD Modelling and HVAC Simulation and Modelling  
+* Currently active member of CFD team of Engineers that provide Simulation and Modelling Services for Research Students and Industry Professionals. Our Core Areas include Multiphase flows, Aerodynamics, CAD Modelling and HVAC Simulation and Modelling
