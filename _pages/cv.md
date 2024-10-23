@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computational Sciences and Engineering , University of Sciecnes and Technology, Islamabad, 2025
+* B.S. in Mechanical Engineering, University of Engineering and Technology, Lahore, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022: Tutor 
+  * Freelancer 
+  * Duties includes: Teaching and assistance in CFD Simulations using different CFD Tools
+  * Core Areas: Computational Fluid Dynamics, Finite Element Analysis, Linear Algebra
+  * CFD Tools: ANSYS Fluent, COMSOL Multiphysics, OpenFOAM
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Graduate Research Assistant
+  * National University of Sciences and Technology
+  * Duties included: Investigating the airflow management system, power estimations, Integrating AI with CFD for predicting Hotspot Temperatures
+  * Supervisor: Dr. Abasaar ul Jabbar (Assistant Professor, NUST)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Parallel Computing Workshop Support Specialist
+  * DenseFusion
+  * Duties included: Developed ANSYS Fluent Cases on Aerodynamics, Developed parallel running codes on Advection-Diffusion Equations
+  * Supervisor: Dr. Rooh Khurram (KAUST) and Dr. Mohsin Ahmad Sheikh (KAUST)
   
-Skills
+Certifications/ Skills 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* The DataScience BootCamp 2022 (365DataScience)
+  * Machine Learning
+  * Statistical Data Analysis
+  * Data Visualization
+* Foundations of Project Management 2022 (Google)
+  * Project Life-cycle
+  * Risk Management
+  * Agile Methodology
+* How to write and Publish a Scientific Paper 2022 (Ecole Polytechnique)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently actively part of CFD team provide Simulation and Modelling Services for Academic Students and Industry Professionals. Our Core Areas include Multiphase flows, Aerodynamics, CAD Modelling and HVAC Simulation and Modelling  
