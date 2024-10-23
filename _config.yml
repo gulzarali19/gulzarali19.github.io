@@ -12,8 +12,8 @@ title                    : "Gulzar Ali"
 title_separator          : "-"
 name                     : &name "Gulzar Ali"
 description              : &description "personal description"
-url                      : https://gulzar1911.github.io/Gulzar_Ali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://gulzar1911.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Gulzar_Ali.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Gulzar1911/Gulzar_Ali.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "images/bio-photo-3.png"
   name             : "Gulzar Ali"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He"
   bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Data Driven CFD modelling | Researcher | "
   location         : "Islamabad"
   employer         : "NUST"
@@ -32,18 +32,18 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "_"
+  googlescholar    : #
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-0180-8800"
   semantic         : # URL
-  pubmed           : "_"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "GulzarAli1911"
+  github           : "Gulzar1911"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
