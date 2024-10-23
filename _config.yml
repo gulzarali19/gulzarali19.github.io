@@ -21,12 +21,12 @@ repository               : "Gulzar1911/Gulzar_Ali.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-3.png"
+  avatar           : "images/bio-photo-3.png"
   name             : "Gulzar Ali"
-  pronouns         : "He"
-  bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Researcher | Data Driven CFD Modelling"
-  location         : "Islamabad"
-  employer         : "NUST"
+  pronouns         : #
+  bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Researcher | Multiphysics Simulations | Finite Element Analyses | Data Driven CFD Modelling"
+  location         : "Islamabad, Pakistan"
+  employer         : "National University of Sciences and Technology"
   uri              : # URL
   email            : "gulzarali05@gmail.com"
 
