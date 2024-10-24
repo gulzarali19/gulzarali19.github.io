@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Files"
-permalink: /Files/
+permalink:
 author_profile: true
 redirect_from:
   - /files
@@ -11,4 +11,4 @@ redirect_from:
 
 # Files
 
-- [CV](../files/Gulzar_Ali_Resume.pdf)
+- [CV](https://gulzarali19.github.io/files/Gulzar_Ali_Resume.pdf)
