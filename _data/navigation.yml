@@ -12,3 +12,6 @@ main:
 
   - title: "Files"
     url: /files/
+
+  - title: "Projects"
+    url: /projects/
