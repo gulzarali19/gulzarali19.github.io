@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Files"
-permalink:
+permalink: /files/
 author_profile: true
 redirect_from:
   - /files
