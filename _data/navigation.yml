@@ -5,10 +5,10 @@
 main:
 
   - title: "Blog Posts"
-    url: /_pages/year-archive/
+    url: /year-archive/
 
   - title: "CV"
-    url: /_pages/cv/
+    url: /cv/
 
   - title: "Files"
     url: /files/
