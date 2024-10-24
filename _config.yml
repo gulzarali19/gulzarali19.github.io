@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gulzar Ali/Gulzar_Ali.github.io"
+title                    : "Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Gulzar Ali"
 description              : &description "personal description"
-url                      : https://gulzar1911.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Gulzar_Ali.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "Gulzar1911/Gulzar_Ali.github.io"
+url                      : https://Gulzar_Ali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Gulzar_Ali.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
