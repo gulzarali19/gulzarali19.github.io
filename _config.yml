@@ -12,9 +12,9 @@ title                    : "Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Gulzar Ali"
 description              : &description "personal description"
-url                      : https://Gulzar_Ali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gulzarali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Gulzar_Ali.github.io"
+repository               : "Gulzar1911/gulzarali.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
