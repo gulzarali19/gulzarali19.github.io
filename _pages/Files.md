@@ -11,4 +11,4 @@ redirect_from:
 
 # Files
 
-- [CV](https://gulzarali19.github.io/files/Gulzar_Ali_Resume.pdf)
+- [Download CV](https://gulzarali19.github.io/files/Gulzar_Ali_Resume.pdf)
