@@ -8,7 +8,7 @@ main:
     url: /_pages/year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: /_pages/cv/
 
   - title: "Files"
     url: /files/
