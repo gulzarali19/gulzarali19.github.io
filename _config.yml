@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Gulzar Ali"
-description              : &description "personal description"
+description              : &description "Personal description"
 url                      : https://gulzarali19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulzarali19/gulzarali19.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-3.jpg"
   name             : "Gulzar Ali"
   pronouns         : #
-  bio              : "Computational Scientist | Computational Fluid Dynamics | Deep Learning | Multiphysics Simulations | Finite Element Analyses | Numerical Modelling | Data-Driven CFD"
+  bio              : "Computational Scientist | CFD | Data-Driven CFD | Machine Learning | Multiphysics Simulations | Finite Element Analyses | Numerical Modelling "
   location         : "Islamabad, Pakistan"
   employer         : "SINES, NUST"
   uri              : # URL
