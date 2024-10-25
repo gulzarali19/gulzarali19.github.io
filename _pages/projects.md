@@ -27,4 +27,4 @@ Description
 
 Multiphase flow Simulation through micocahnnels
 ======
-* Currently active member of CFD team of Engineers that provide Simulation and Modelling Services for Research Students and Industry Professionals. Our Core Areas include Multiphase flows, Aerodynamics, CAD Modelling and HVAC Simulation and Modelling
+Description

@@ -1,3 +1,4 @@
+ls
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
@@ -5,7 +6,7 @@
 main:
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /_pages/year-archive/
 
   - title: "CV"
     url: /cv/
