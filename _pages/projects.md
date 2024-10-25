@@ -25,6 +25,6 @@ Vortex Panel Method
 ======
 Description
 
-Multiphase flow Simulation through micocahnnels
+Multiphase flow Simulation through microchannels
 ======
 Description
