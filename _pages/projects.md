@@ -9,47 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Simulation of Fluid Flow through Porous Media
+1. Simulation of Fluid Flow through Porous Media
 ======
-![Fluid Flow through Porous Media](/images/projects/saturation_3D.gif)
+![Fluid Flow through Porous Media](/images/projects/saturation_3D.gif){:width="300px" height="200px"}
 
 This project focuses on the dynamics of fluid flow within porous materials, often found in natural formations like soil or engineered materials like filters. By using computational fluid dynamics (CFD), we simulate how fluids move through these porous structures, analyzing factors such as permeability and saturation. The insights gained can be applied to optimize material design or understand natural processes in environmental engineering.
 
-[Download Project Poster](/images/projects/final_year_Poster.pdf)
+[Click here to View Project Poster](/images/projects/final_year_Poster.pdf)
 
 ---
 
-Deep Learning Enhanced CFD Modelling of Data Centers
+2. Deep Learning Enhanced CFD Modelling of Data Centers
 ======
-![Datacenter CFD Modelling](/images/projects/datacenters.png)
+![Datacenter CFD Modelling](/images/projects/datacenters.png){:width="300px" height="200px"}
 
 In this project, deep learning techniques are integrated with traditional CFD to optimize thermal management in data centers. Data centers generate significant heat, and efficient cooling is essential to maintain performance and reduce energy costs. This model combines AI with CFD simulations to predict hotspot formation and optimize cooling strategies, enhancing energy efficiency.
 
 ---
 
-Finite Element Code for 2D Problem
+3. Finite Element Code for 2D Problem
 ======
 This project involves creating a finite element analysis (FEA) code to solve 2D structural problems, such as stress and deformation in materials under load. Using FEA, we break down a complex structure into smaller elements to calculate how forces distribute across the material. This project provides a foundation for analyzing mechanical stability and performance.
 
-![Mesh view of problem](/images/projects/mesh_plot.png)
+![Mesh view of problem](/images/projects/mesh_plot.png){:width="300px" height="200px"}
 
-![Ansys Simulation](/images/projects/Ansys4.PNG)
+![Ansys Simulation](/images/projects/Ansys4.PNG){:width="300px" height="200px"}
 
 ---
 
-Second Order Vortex Panel Method
+4. Second Order Vortex Panel Method
 ======
-![Streamlines computed with Vortex Panel Method](/images/projects/Streamlines.jpg)
+![Streamlines computed with Vortex Panel Method](/images/projects/Streamlines.jpg){:width="300px" height="200px"}
 
 The Vortex Panel Method is a numerical technique used in aerodynamics to model the flow of air around objects like airfoils. By discretizing the object’s surface into small panels with vortex strengths, this method helps to visualize and compute the flow patterns and pressure distribution around an airfoil.
 
-![Coefficient of Pressure](/images/projects/Cofficient_Pressure.jpg)
+![Cofficient of Pressure](/images/projects/Cofficient_Pressure.jpg){:width="300px" height="200px"}
 
 ---
 
-Multiphase Flow Simulation through Microchannels
+5. Multiphase Flow Simulation through Microchannels
 ======
-![Flow Regime in Microchannel](/images/projects/Volume_Fraction_later_part.gif)
+![Flow Regimes in Microchannel](/images/projects/Volume_Fraction_later_part.gif){:width="300px" height="200px"}
 
 This project explores the behavior of multiphase flows (e.g., gas-liquid) within microchannels, which are commonly used in applications like microfluidic devices and cooling systems. Modeling multiphase flow regimes in these narrow channels helps improve the design of cooling systems and other small-scale fluidic devices by optimizing flow behavior for specific applications.
 
