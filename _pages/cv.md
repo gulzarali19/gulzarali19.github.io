@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
+---
 * M.S. in Computational Sciences and Engineering , University of Sciences and Technology, Islamabad
 * B.S. in Mechanical Engineering, University of Engineering and Technology, Lahore
 
 Work experience
 ======
+---
 * Spring 2022: Tutor 
   * Freelancer 
   * Duties includes: Teaching and assistance in CFD Simulations using different CFD Tools
@@ -34,6 +36,7 @@ Work experience
 
 Skills & Certifications
 ======
+---
 * The DataScience BootCamp 2022 (365DataScience)
 -----
   * Machine Learning
@@ -52,4 +55,5 @@ Skills & Certifications
 
 Service and leadership
 ======
+---
 * Currently active member of CFD team of Engineers that provide Simulation and Modelling Services for Research Students and Industry Professionals. Our Core Areas include Multiphase flows, Aerodynamics, CAD Modelling and HVAC Simulation and Modelling
