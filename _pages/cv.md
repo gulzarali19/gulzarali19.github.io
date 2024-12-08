@@ -32,11 +32,7 @@ Work experience
   * Duties included: Developed ANSYS Fluent Cases on Aerodynamics, Developed parallel running codes on Advection-Diffusion Equations
   * Supervisor: Dr. Rooh Khurram (KAUST) and Dr. Mohsin Ahmad Sheikh (KAUST)
 
-Skills
-======
-* 
-
-Certifications
+Skills & Certifications
 ======
 * The DataScience BootCamp 2022 (365DataScience)
 -----
