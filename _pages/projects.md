@@ -13,7 +13,7 @@ redirect_from:
 
 Simulation of Fluid Flow through Porous Media
 ======
-This project is oriented to the modelling of imbibition process inn porous media and validations with experiments. First phase of this project was to validate wash-burn Equation with Simulation Results. Then we modify paper parameters in order to get max time and slowest flow rate. In our analysis we have done simulations with water and castor oil. Application of this project is vast, often found in natural formations like soil or engineered materials like filter papers. Making it very important field of study specially in geosciences. In our project, it is more inclined toward engineered porous media, where we find suitable parameters for paper to be used in these small fluidic sensors known as flexible time-temperature Indicators FTTIs.
+This project is oriented to the modelling of imbibition process in porous media and validations with experiments. First phase of this project was to validate Washburn's Equation with Simulation Results. Then we modify paper parameters in order to get max time and slowest flow rate. In our analysis we have done simulations with water and castor oil. Application of this project is vast, often found in natural formations like soil or engineered materials like filter papers. Making it very important field of study specially in geosciences. In our project, it is more inclined toward engineered porous media, where we find suitable parameters for paper to be used in these small fluidic sensors known as flexible time-temperature Indicators FTTIs.
 [>>Click here to View Project Poster](/images/projects/final_year_Poster.pdf)
 
 ![Fluid Flow through Porous Media](/images/projects/saturation_3D.gif){:width="400px" height="300px"}
