@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+I am an aspiring researcher with a strong academic background in mechanical engineering and growing expertise in Computational Fluid Dynamics (CFD), high-performance computing (HPC), and data-driven modeling. Currently pursuing a Master’s in Computational Science and Engineering at NUST, I am passionate about using advanced simulation tools and machine learning techniques to address complex problems in fluid dynamics and thermal systems.
 
-I am a young researcher with a Master’s degree in Computational Sciences and Engineering, specializing in Computational Fluid Dynamics (CFD) and machine learning. My academic background in mechanical engineering, with a focus on Finite Element Analysis (FEA) and CFD, has led me to explore advanced techniques in numerical modeling of multiphysics problems and equip me with expertise of utilizing power of high-performance computing (HPC).
+My current research focuses on improving thermal management in data centers by integrating CFD with deep learning. As part of my Master’s thesis, I developed AI-driven models to predict temperature hotspots based on CFD simulations, aiming to optimize cooling strategies and reduce energy consumption. This work reflects my interest in bridging traditional numerical methods with emerging AI approaches.
 
-My master's research integrates CFD with Machine learning to predict and optimize temperature hotspots in data centers, improving cooling efficiency and energy consumption. I am also involved in data-driven approaches for turbulence modeling, utilizing NNs and PINNs to enhance simulation accuracy and speed.
+Through hands-on experience as a CFD Support Engineer and Applications Developer, I have contributed to simulation-based R&D efforts in both academia and industry, including consultancy and support for projects at KAUST. I’ve worked with tools such as ANSYS Fluent, COMSOL Multiphysics, and OpenFOAM, and have developed parallelized solvers using MPI. I’m also exploring neural network–based methods, including CNNs, GNNs, and physics-informed models, for turbulence modeling and flow prediction.
 
-In addition, I have worked extensively on multiphase flow simulations, modelling complex interactions in flow regimes using tools such as ANSYS Fluent and COMSOL. My goal is to bridge the gap between traditional numerical methods and artificial intelligence to solve real-world engineering problems more efficiently.
+Driven by curiosity and a strong desire to learn, I am committed to further exploring how AI and HPC can enhance the accuracy and efficiency of simulations in engineering. My long-term goal is to contribute to the development of innovative, scalable modeling techniques that have practical impact across various fields of computational science.
 
-I am passionate about applying cutting-edge AI techniques and explore more robust algorithms and solvers in fluid dynamics and thermal management systems, pushing the boundaries of research in data-driven modeling and HPC-driven simulations.
 

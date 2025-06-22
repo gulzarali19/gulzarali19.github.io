@@ -4,9 +4,6 @@
 
 main:
 
-  - title: "Blog Posts"
-    url: /_pages/year-archive/
-
   - title: "CV"
     url: /cv/
 
