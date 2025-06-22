@@ -67,9 +67,8 @@ redirect_from:
       <span class="cv-item-date">Spring 2024</span>
     </div>
     <ul>
-      <li>Researched airflow management and power estimation in data centers</li>
+      <li>Research on airflow management and power estimation in data centers</li>
       <li>Integrated AI with CFD models to predict thermal hotspots</li>
-      <li>Supervisor: Dr. Absaar ul Jabbar</li>
     </ul>
   </div>
 
@@ -97,7 +96,7 @@ redirect_from:
     <ul>
       <li><strong>Programming Languages:</strong> Python, C/C++</li>
       <li><strong>CFD & Simulation Tools:</strong> ANSYS Fluent, COMSOL Multiphysics, OpenFOAM</li>
-      <li><strong>Operating Systems:</strong> Linux</li>
+      <li><strong>Operating Systems:</strong> Linux, Windows</li>
       <li><strong>Libraries & Frameworks:</strong> PyTorch, mpi4py, Pandas, NumPy, Matplotlib, Keras</li>
       <li><strong>Dev Tools:</strong> Git, Docker, Visual Studio Code, PyCharm</li>
     </ul>
@@ -111,15 +110,17 @@ redirect_from:
 <div class="cv-section">
   <div class="cv-item">
     <ul>
-      <li><strong>Developing Scalable CFD Applications Powered by HPC</strong><br><span class="cv-item-date">Oct. 2024</span></li>
+      <li><strong>Developing Scalable CFD Applications Powered by HPC</strong><br><span class="cv-item-date">Oct. 2024</span>
+	<ul><li>During my internship at DenseFusion & Redstart Technology Solutions (Summer–Fall 2024), I gained practical experience in CFD and high-performance computing (HPC), working on the development and optimization of scalable simulation applications. The role involved hands-on training, collaborative problem-solving, and applied research projects that deepened my technical and analytical skills in fluid dynamics and computational modeling</li></ul>
+	</li>
       <li><strong>The Data Science Boot Camp</strong> – 365 Data Science<br><span class="cv-item-date">Sept. 2022</span>
-        <ul><li>Machine Learning, Data Visualization, Statistical Analysis</li></ul>
+        <ul><li>Gained practical knowledge in supervised and unsupervised machine learning techniques, explored data cleaning and exploratory data analysis (EDA), and developed interactive visualizations. Built hands-on projects using Python, applying statistical methods to extract insights and support data-driven decision-making</li></ul>
       </li>
       <li><strong>Foundations of Project Management</strong> – Google<br><span class="cv-item-date">Sept. 2022</span>
-        <ul><li>Agile Methodology, Project Lifecycle, Risk Management</li></ul>
+        <ul><li>Introduced to core project management principles, including defining project scopes, managing timelines, and identifying risks. Gained hands-on understanding of the full project lifecycle and Agile methodologies for effective team collaboration and iterative development</li></ul>
       </li>
       <li><strong>How to Write and Publish a Scientific Paper</strong> – École Polytechnique<br><span class="cv-item-date">Feb. 2022</span>
-        <ul><li>Literature Review, Manuscript Preparation, Peer Review Process</li></ul>
+        <ul><li>Developed a structured approach to academic writing, including conducting comprehensive literature reviews, organizing and drafting scientific manuscripts, and understanding the peer review and publication process in reputable journals</li></ul>
       </li>
     </ul>
   </div>
@@ -132,33 +133,11 @@ redirect_from:
 <div class="cv-section">
   <div class="cv-item">
     <ul>
-      <li>Scientific blogging and writing about CFD and AI trends</li>
-      <li>Learning new programming frameworks and technologies</li>
-      <li>Outdoor activities like hiking and cycling</li>
+      <li>Scientific computations</li>
+      <li>Sketching</li>
+      <li>Badminton</li>
       <li>Public speaking and mentoring young STEM students</li>
     </ul>
   </div>
 </div>
 ---
-
-## <span class="cv-icon">🔬</span> Research Interests
-
-<div class="cv-section">
-  <div class="cv-item">
-    <p><strong>Fields of interest include:</strong></p>
-    <p class="cv-hashtags">
-      #CFD &nbsp;&nbsp;
-      #MultiphaseFlows &nbsp;&nbsp;
-      #TurbulenceModelling &nbsp;&nbsp;
-      #DataDrivenSimulation &nbsp;&nbsp;
-      #PhysicsInformedNNs (PINNs) &nbsp;&nbsp;
-      #SurrogateModels &nbsp;&nbsp;
-      #AI4CFD &nbsp;&nbsp;
-      #ReducedOrderModeling &nbsp;&nbsp;
-      #NeuralTurbulenceClosure &nbsp;&nbsp;
-      #NumericalModelling &nbsp;&nbsp;
-      #ScientificML &nbsp;&nbsp;
-      #HybridPhysicsML
-    </p>
-  </div>
-</div>
