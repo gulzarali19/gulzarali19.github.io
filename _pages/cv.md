@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- - [Save PDF](https://gulzarali19.github.io/files/Gulzar_Ali_CV.pdf)
+<a href="https://gulzarali19.github.io/files/Gulzar_Ali_CV.pdf" class="btn btn--primary" target="_blank">📄 Save PDF</a>
 
 ## <span class="cv-icon">🎓</span> Education
 

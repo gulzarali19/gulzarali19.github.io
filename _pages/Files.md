@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /files/
 author_profile: true
 redirect_from:
@@ -8,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Publications
+## Publications
 
-- Real-Time Thermal Field Prediction in Data Center Using Deep Learning Surrogates for CFD Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A. U.Submitted to Proceedings of the International Bhurban Conference on Applied Sciences and Technology (IBCAST 2025), IEEE (Under Review).
+- **Real-Time Thermal Field Prediction in Data Centers Using Deep Learning Surrogates for CFD**
+  *Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A. U.*
+  Submitted to *Proceedings of the International Conference on XYZ*.
 
-- [Download CV](https://gulzarali19.github.io/files/Gulzar_Ali_CV.pdf)
+---
+
 
 
 
