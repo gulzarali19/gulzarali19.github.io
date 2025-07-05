@@ -53,7 +53,7 @@ redirect_from:
   <div class="cv-item">
     <div class="cv-item-title">Internee</div>
     <div class="cv-item-meta">
-      DenseFusion & Redstart Technology Solutions, Islamabad<br>
+      DenseFusion & Redstart Technology Solutions<br>
       <span class="cv-item-date">Summer 2024 – Fall 2024</span>
     </div>
     <ul>
@@ -65,12 +65,12 @@ redirect_from:
   <div class="cv-item">
     <div class="cv-item-title">Graduate Student Researcher</div>
     <div class="cv-item-meta">
-      National University of Sciences and Technology (NUST)<br>
+      School of Interdisciplinary Engineering and Sciences (SINES), NUST<br>
       <span class="cv-item-date">Spring 2024</span>
     </div>
     <ul>
-      <li>Research on airflow management and power estimation in data centers</li>
-      <li>Integrated AI with CFD models to predict thermal hotspots</li>
+      <li>Development of surrogate models for prediction of hotspots in data centers</li>
+      <li>Deep learning based CFD approach in Datacenters</li>
     </ul>
   </div>
 
@@ -81,9 +81,9 @@ redirect_from:
       <span class="cv-item-date">Spring 2022</span>
     </div>
     <ul>
-      <li>Taught fundamentals and advanced topics in CFD and FEA</li>
-      <li>Assisted students in simulation projects using ANSYS, COMSOL Multiphysics, and OpenFOAM</li>
-      <li>Focus areas included Linear Algebra, Finite Element Analysis, and CFD basics</li>
+      <li>Teach fundamentals and advanced topics in CFD and FEA</li>
+      <li>Assist students in simulation projects using ANSYS, COMSOL Multiphysics, and OpenFOAM</li>
+      <li>Focus areas included Linear Algebra, Finite Element Analysis, and Computational Fluid Dynamics</li>
     </ul>
   </div>
 
@@ -135,7 +135,7 @@ redirect_from:
 <div class="cv-section">
   <div class="cv-item">
     <ul>
-      <li>Scientific computations</li>
+      <li>Numerical Modelling</li>
       <li>Sketching</li>
       <li>Badminton</li>
       <li>Public speaking and mentoring young STEM students</li>
