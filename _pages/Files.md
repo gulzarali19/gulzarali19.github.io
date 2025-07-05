@@ -10,19 +10,6 @@ redirect_from:
 
 # Publications
 
--   GNU nano 7.2                                                                                         files.md                                                                                         Modified
----
-layout: archive
-permalink: /files/
-author_profile: true
-redirect_from:
-  - /files
----
-
-{% include base_path %}
-
-# Publications
-
 - Real-Time Thermal Field Prediction in Data Center Using Deep Learning Surrogates for CFD Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A. U.Submitted to Proceedings of the International Bhurban Conference on Applied Sciences and Technology (IBCAST 2025), IEEE (Under Review).
 
 - [Download CV](https://gulzarali19.github.io/files/Gulzar_Ali_CV.pdf)
