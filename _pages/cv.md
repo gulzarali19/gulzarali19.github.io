@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+ - [Save PDF](https://gulzarali19.github.io/files/Gulzar_Ali_CV.pdf)
 
 ## <span class="cv-icon">🎓</span> Education
 
