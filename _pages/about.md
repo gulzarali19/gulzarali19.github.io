@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /
 title: "Personal Description"
 author_profile: true
