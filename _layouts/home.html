@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% include page__hero.html %}
+
+<div class="page__inner-wrap">
+  {% if page.sidebar %}
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  {% endif %}
+
+  <section class="page__content" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.author_profile %}
+      {% include author-profile.html %}
+    {% endif %}
+
+    {{ content }}
+  </section>
+</div>

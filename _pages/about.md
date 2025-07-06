@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: home
 permalink: /
 title: "Personal Description"
 author_profile: true
