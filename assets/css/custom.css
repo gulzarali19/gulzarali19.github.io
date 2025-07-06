@@ -1,0 +1,23 @@
+/* Dark Mode Styling */
+.dark-mode body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-mode a {
+  color: #90caf9;
+}
+
+.dark-mode .page__footer {
+  background-color: #1a1a1a;
+  color: #aaa;
+}
+
+#theme-toggle {
+  color: inherit;
+  transition: transform 0.2s ease;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.2);
+}

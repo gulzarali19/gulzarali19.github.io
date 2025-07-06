@@ -346,3 +346,8 @@ compress_html:
     envs: development
 
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "assets/css/custom.css"
