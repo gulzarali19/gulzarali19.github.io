@@ -4,6 +4,12 @@
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
     {% include head/custom.html %}
   </head>
 
@@ -14,13 +20,6 @@
 
     {{ content }}
 
-    <!-- 🌗 Dark mode toggle button -->
-    <button id="theme-toggle" aria-label="Toggle dark mode"
-      style="position: fixed; top: 1rem; right: 1rem; z-index: 1000; font-size: 1.4rem;
-             background: none; border: none; cursor: pointer;">
-      <span id="theme-icon">🌙</span>
-    </button>
-
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -29,31 +28,9 @@
 
     {% include scripts.html %}
 
-    <!-- 🌙 Dark mode toggle script -->
-    <script>
-      const toggle = document.getElementById("theme-toggle");
-      const icon = document.getElementById("theme-icon");
-      const darkClass = "dark-mode";
-      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-      const isSavedDark = localStorage.getItem("theme") === "dark" || (!localStorage.getItem("theme") && prefersDark);
-      if (isSavedDark) {
-        document.documentElement.classList.add(darkClass);
-        icon.textContent = "☀️";
-      } else {
-        icon.textContent = "🌙";
-      }
-
-      toggle.addEventListener("click", () => {
-        document.documentElement.classList.toggle(darkClass);
-        const isDark = document.documentElement.classList.contains(darkClass);
-        localStorage.setItem("theme", isDark ? "dark" : "light");
-        icon.textContent = isDark ? "☀️" : "🌙";
-      });
-    </script>
-
   </body>
 </html>
+
 
 
 
