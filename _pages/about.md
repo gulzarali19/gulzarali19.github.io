@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a young researcher with a strong foundation in Mechanical Engineering and advanced expertise in Computational Fluid Dynamics (CFD), High-Performance Computing (HPC), and data-driven modeling. Having completed my Master’s in Computational Science and Engineering at NUST, I now work as a CFD Support Engineer, contributing to simulation-based R&D, technical consultation, and the optimization of industrial and academic CFD workflows. My professional focus lies in developing efficient, scalable modeling strategies that combine physical insight with Artificial Intelligence.
+I am a researcher with a background in Mechanical Engineering and experience in Computational Fluid Dynamics (CFD), High-Performance Computing (HPC), and data-driven modeling. Having completed my Master’s in Computational Science and Engineering at NUST, I now work as a CFD Support Engineer, contributing to simulation-based R&D, technical consultation, and the optimization of industrial and academic CFD workflows. My professional focus lies in developing efficient, scalable modeling strategies that combine physical insight with Artificial Intelligence.
 
 My research centers on CFD as a core framework for understanding and predicting complex flow phenomena. I have worked on CFD-based thermal modeling and developed deep learning architectures for flow field prediction, serving as surrogate models for conventional CFD simulations. These experiences strengthened my ability to couple physics-based simulation with modern AI techniques, enabling rapid design exploration and physically consistent flow predictions.
 
