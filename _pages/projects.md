@@ -11,42 +11,192 @@ redirect_from:
 
 ---
 
-Simulation of Fluid Flow through Porous Media
-======
-This project is oriented to the modelling of imbibition process in porous media and validations with experiments. First phase of this project was to validate Washburn's Equation with Simulation Results. Then we modify paper parameters in order to get max time and slowest flow rate. In our analysis we have done simulations with water and castor oil. Application of this project is vast, often found in natural formations like soil or engineered materials like filter papers. Making it very important field of study specially in geosciences. In our project, it is more inclined toward engineered porous media, where we find suitable parameters for paper to be used in these small fluidic sensors known as flexible time-temperature Indicators FTTIs.
-[>>Click here to View Project Poster](/images/projects/final_year_Poster.pdf)
+<style>
+/* ---- Project cards ---- */
+.projects-list {
+  display: grid;
+  gap: 14px;
+}
 
-![Fluid Flow through Porous Media](/images/projects/saturation_3D.gif){:width="400px" height="300px"}
+/* Use <details> for built-in toggle without JS */
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fff;
+  overflow: hidden;
+  transition: box-shadow .2s ease, border-color .2s ease;
+}
+.project-card[open] {
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+  border-color: #d1d5db;
+}
 
----
+/* Summary row: image left, title + button right */
+.project-card > summary {
+  list-style: none; /* hide default marker */
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  align-items: center;
+  gap: 16px;
+  padding: 14px;
+  cursor: pointer;
+}
+.project-card > summary::-webkit-details-marker { display: none; }
 
-Deep Learning Enhanced CFD Modelling of Data Centers
-======
-In this project, deep learning techniques are integrated with traditional CFD to optimize thermal management in data centers. Data centers generate significant heat, and efficient cooling is essential to maintain performance and reduce energy costs. This model combines AI with CFD simulations to predict hotspot formation and optimize cooling strategies, enhancing energy efficiency.
+/* Left image box */
+.project-thumb {
+  width: 120px;
+  height: 90px;
+  border-radius: 10px;
+  background: #f3f4f6;
+  overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+  border: 1px solid #eee;
+}
+.project-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
-![Datacenter CFD Modelling](/images/projects/datacenters.png){:width="400px" height="400px"}
+/* Right side: title + "Abstract" button aligned right */
+.project-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.project-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  flex: 1;
+  line-height: 1.2;
+}
 
----
+/* Faux button inside <summary> (clicking anywhere toggles) */
+.abstract-btn {
+  border: 1px solid #d1d5db;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: .9rem;
+  white-space: nowrap;
+  background: #f9fafb;
+  transition: background .15s ease, border-color .15s ease;
+}
+.project-card:hover .abstract-btn { background: #f3f4f6; }
+.project-card[open] .abstract-btn { background: #eef2ff; border-color: #c7d2fe; }
 
-Finite Element Code for 2D Problem
-======
-This project involves creating a finite element analysis (FEA) code to solve 2D structural problems, such as stress and deformation in materials under load. Using FEA, we break down a complex structure into smaller elements to calculate how forces distribute across the material. This project provides a foundation for analyzing mechanical stability and performance.
+/* Expanded body */
+.project-body {
+  padding: 0 14px 14px 14px;
+  color: #374151;
+  font-size: .96rem;
+}
 
-![Mesh view of problem](/images/projects/mesh_plot.png){:width="300px" height="300px"} ![Ansys Simulation](/images/projects/Ansys4.PNG){:width="300px" height="300px"}
+/* Optional meta row (links, tags) */
+.project-meta {
+  margin-top: 8px;
+  display: flex; flex-wrap: wrap; gap: 10px;
+  font-size: .9rem;
+}
+.project-meta a {
+  color: #2563eb; text-decoration: none; border-bottom: 1px dashed #93c5fd;
+}
+.project-meta a:hover { border-bottom-style: solid; }
 
----
+/* Responsive tweaks */
+@media (max-width: 560px) {
+  .project-card > summary {
+    grid-template-columns: 90px 1fr;
+    gap: 12px; padding: 12px;
+  }
+  .project-thumb { width: 90px; height: 70px; }
+}
+</style>
 
-Second Order Vortex Panel Method
-======
-The Vortex Panel Method is a numerical technique used in aerodynamics to model the flow of air around objects like airfoils. By discretizing the object’s surface into small panels with vortex strengths, this method helps to visualize and compute the flow patterns and pressure distribution around an airfoil.
+<div class="projects-list">
 
-![Streamlines computed with Vortex Panel Method](/images/projects/Streamlines.jpg){:width="500px" height="400px"} ![Cofficient of Pressure](/images/projects/Cofficient_Pressure.jpg){:width="300px" height="300px"}
+  <!-- PROJECT 1 -->
+  <details class="project-card">
+    <summary>
+      <div class="project-thumb">
+        <img src="/images/projects/saturation_3D.gif" alt="Fluid flow saturation 3D">
+      </div>
+      <div class="project-head">
+        <div class="project-title">Simulation of Fluid Flow through Porous Media</div>
+        <span class="abstract-btn">Abstract</span>
+      </div>
+    </summary>
+    <div class="project-body">
+      This project models imbibition in porous media and validates Washburn’s equation against simulation and experiment. The first phase focused on matching capillary rise dynamics; subsequent phases explored sensitivity to pore-size distribution, contact angle, and viscosity.
+      <div class="project-meta">
+        <a href="/images/projects/final_year_Poster.pdf">View Poster (PDF)</a>
+      </div>
+    </div>
+  </details>
 
----
+  <!-- PROJECT 2 -->
+  <details class="project-card">
+    <summary>
+      <div class="project-thumb">
+        <img src="/images/projects/datacenters.png" alt="Data center CFD">
+      </div>
+      <div class="project-head">
+        <div class="project-title">Deep Learning Enhanced CFD Modelling of Data Centers</div>
+        <span class="abstract-btn">Abstract</span>
+      </div>
+    </summary>
+    <div class="project-body">
+      We integrate neural surrogates with RANS/LES to accelerate thermal simulations and optimize CRAH setpoints and rack layout under variable loads, reducing time-to-solution and improving cooling efficiency.
+    </div>
+  </details>
 
-Multiphase Flow Simulation through Microchannels
-======
-This project explores the behavior of multiphase flows (e.g., gas-liquid) within microchannels, which are commonly used in applications like microfluidic devices and cooling systems. Modeling multiphase flow regimes in these narrow channels helps improve the design of cooling systems and other small-scale fluidic devices by optimizing flow behavior for specific applications.
+  <!-- PROJECT 3 -->
+  <details class="project-card">
+    <summary>
+      <div class="project-thumb">
+        <img src="/images/projects/mesh_plot.png" alt="2D mesh">
+      </div>
+      <div class="project-head">
+        <div class="project-title">Finite Element Code for 2D Problems</div>
+        <span class="abstract-btn">Abstract</span>
+      </div>
+    </summary>
+    <div class="project-body">
+      A custom FEA solver for plane stress/strain with isoparametric elements, Gauss quadrature, and sparse solvers. Validated against Ansys for displacement/stress fields on benchmark geometries.
+    </div>
+  </details>
 
-![Flow Regimes in Microchannel](/images/projects/Volume_Fraction_later_part.gif){:width="600px" height="400px"}
+  <!-- PROJECT 4 -->
+  <details class="project-card">
+    <summary>
+      <div class="project-thumb">
+        <img src="/images/projects/Streamlines.jpg" alt="Streamlines from vortex panel method">
+      </div>
+      <div class="project-head">
+        <div class="project-title">Second Order Vortex Panel Method</div>
+        <span class="abstract-btn">Abstract</span>
+      </div>
+    </summary>
+    <div class="project-body">
+      Implemented a second-order panel method to compute lift and Cp distribution on airfoils; validated against thin-airfoil theory and XFOIL for moderate angles of attack.
+    </div>
+  </details>
+
+  <!-- PROJECT 5 -->
+  <details class="project-card">
+    <summary>
+      <div class="project-thumb">
+        <img src="/images/projects/Volume_Fraction_later_part.gif" alt="Microchannel flow regimes">
+      </div>
+      <div class="project-head">
+        <div class="project-title">Multiphase Flow Simulation through Microchannels</div>
+        <span class="abstract-btn">Abstract</span>
+      </div>
+    </summary>
+    <div class="project-body">
+      CFD of gas–liquid regimes in rectangular microchannels using VOF, capturing slug, annular, and bubbly flows; compared pressure drop and void fraction maps against literature.
+    </div>
+  </details>
+
+</div>
 
