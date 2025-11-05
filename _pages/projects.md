@@ -119,15 +119,15 @@ redirect_from:
   <details class="project-card">
     <summary>
       <div class="project-thumb">
-        <img src="/images/projects/saturation_3D.gif" alt="Fluid flow saturation 3D">
+        <img src="/images/projects/FTTIs.png" alt="Fluid flow saturation 3D">
       </div>
       <div class="project-head">
-        <div class="project-title">Simulation of Fluid Flow through Porous Media</div>
+        <div class="project-title">Simulation of Fluid Flow in Porous Media for The Development of Flexible Time Temperature Indicators (FTTIs)</div>
         <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
-      This project models imbibition in porous media and validates Washburn’s equation against simulation and experiment. The first phase focused on matching capillary rise dynamics; subsequent phases explored sensitivity to pore-size distribution, contact angle, and viscosity.
+      This project models imbibition in porous media and validates Washburn’s equation against simulation and experiment. The first phase focused on matching capillary rise dynamics; subsequent phases explored sensitivity to pore-size distribution, contact angle, and viscosity. Furthermore, imbibtion was explored with different geometric parameters and mixtures.
       <div class="project-meta">
         <a href="/images/projects/final_year_Poster.pdf">View Poster (PDF)</a>
       </div>
@@ -141,12 +141,12 @@ redirect_from:
         <img src="/images/projects/datacenters.png" alt="Data center CFD">
       </div>
       <div class="project-head">
-        <div class="project-title">Deep Learning Enhanced CFD Modelling of Data Centers</div>
+        <div class="project-title">Hybrid CFD-Deep Learning Approach for Predicting of Thermal flows for Hotspot Mitigation in Datacenter Racks</div>
         <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
-      We integrate neural surrogates with RANS/LES to accelerate thermal simulations and optimize CRAH setpoints and rack layout under variable loads, reducing time-to-solution and improving cooling efficiency.
+      We integrate neural surrogates with CFD to accelerate thermal simulations and optimize CRAH setpoints and rack layout under variable loads, reducing time-to-solution and improving cooling efficiency.
     </div>
   </details>
 
@@ -154,10 +154,10 @@ redirect_from:
   <details class="project-card">
     <summary>
       <div class="project-thumb">
-        <img src="/images/projects/mesh_plot.png" alt="2D mesh">
+        <img src="/images/projects/Ansys4.png" alt="2D mesh">
       </div>
       <div class="project-head">
-        <div class="project-title">Finite Element Code for 2D Problems</div>
+        <div class="project-title">Finite Element Analysis Code Validation with Commercial Solver (ANSYS)</div>
         <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
@@ -178,23 +178,7 @@ redirect_from:
       </div>
     </summary>
     <div class="project-body">
-      Implemented a second-order panel method to compute lift and Cp distribution on airfoils; validated against thin-airfoil theory and XFOIL for moderate angles of attack.
-    </div>
-  </details>
-
-  <!-- PROJECT 5 -->
-  <details class="project-card">
-    <summary>
-      <div class="project-thumb">
-        <img src="/images/projects/Volume_Fraction_later_part.gif" alt="Microchannel flow regimes">
-      </div>
-      <div class="project-head">
-        <div class="project-title">Multiphase Flow Simulation through Microchannels</div>
-        <span class="abstract-btn">Abstract</span>
-      </div>
-    </summary>
-    <div class="project-body">
-      CFD of gas–liquid regimes in rectangular microchannels using VOF, capturing slug, annular, and bubbly flows; compared pressure drop and void fraction maps against literature.
+      Implemented a second-order panel method to compute lift and Cp distribution on airfoils; validated against thin-airfoil theory and XFOIL for moderate angles of attack. The study was part of Computational Techniques in Aeronautics.
     </div>
   </details>
 
