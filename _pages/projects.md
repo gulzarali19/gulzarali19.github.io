@@ -154,7 +154,7 @@ redirect_from:
   <details class="project-card">
     <summary>
       <div class="project-thumb">
-        <img src="/images/projects/Ansys4.png" alt="2D mesh">
+        <img src="/images/projects/Ansys4.PNG" alt="2D mesh">
       </div>
       <div class="project-head">
         <div class="project-title">Finite Element Analysis Code Validation with Commercial Solver (ANSYS)</div>
