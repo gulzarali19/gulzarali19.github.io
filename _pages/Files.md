@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Publications
+## Conference Papers
 
 - **Real-Time Thermal Field Prediction in Data Centers Using Deep Learning Surrogates for CFD**<br>
   *Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A. U.*<br>
-  Submitted to Proceedings of the International Bhurban Conference on Applied Sciences and Technology<br> 
-  (IBCAST 2025, IEEE)
+  (Draft Under Review)
+
+- **CNN-Based Surrogate Model for Rapid Prediction of Flow Fields in Early-Stage Urban Design and Planning**
+  *Ali, G., Khan, H., Tariq, B.,Khalid E. and Mushtaq, A.*
+  (Submitted to IcoDT2025) - Under Review
 
 ---
 
