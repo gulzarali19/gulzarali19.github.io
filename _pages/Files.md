@@ -17,7 +17,7 @@ redirect_from:
 
 - **CNN-Based Surrogate Model for Rapid Prediction of Flow Fields in Early-Stage Urban Design and Planning**<br>
   *Ali, G., Khan, H., Tariq, B.,Khalid E. and Mushtaq, A.*<br>
-  (Submitted to IcoDT2025) - Under Review
+  (Submitted to IcoDT2025) - Accepted
 
 ---
 
