@@ -123,7 +123,6 @@ redirect_from:
       </div>
       <div class="project-head">
         <div class="project-title">Simulation of Fluid Flow in Porous Media for The Development of Flexible Time Temperature Indicators (FTTIs)</div>
-        <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
@@ -142,7 +141,6 @@ redirect_from:
       </div>
       <div class="project-head">
         <div class="project-title">Hybrid CFD-Deep Learning Approach for Predicting of Thermal flows for Hotspot Mitigation in Datacenter Racks</div>
-        <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
@@ -158,7 +156,6 @@ redirect_from:
       </div>
       <div class="project-head">
         <div class="project-title">Finite Element Analysis Code Validation with Commercial Solver (ANSYS)</div>
-        <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
@@ -174,7 +171,6 @@ redirect_from:
       </div>
       <div class="project-head">
         <div class="project-title">Second Order Vortex Panel Method</div>
-        <span class="abstract-btn">Abstract</span>
       </div>
     </summary>
     <div class="project-body">
