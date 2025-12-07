@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-### Publications
+## 📰 Publications
 
-* **CNN-Based Surrogate Model for Rapid Prediction of Flow Fields in Early-Stage Urban Design and Planning**
-    * *Ali, G., Khan, H., Tariq, B., Khalid E., & Mushtaq, A.*
-    * Accepted: 5th International Conference on Digital Futures and Transformative Technologies (ICoDT2), Islamabad, Pakistan. (To Appear in IEEE Xplore Proceedings, 2025).
+**Ali, G., Khan, H., Tariq, B., Khalid E., & Mushtaq, A.** **"CNN-Based Surrogate Model for Rapid Prediction of Flow Fields in Early-Stage Urban Design and Planning."** *5th International Conference on Digital Futures and Transformative Technologies (ICoDT2)*, Islamabad, Pakistan, (Accepted, To Appear in IEEE Xplore Proceedings, 2025).
 
-* **Real-Time Thermal Field Prediction in Data Centers Using Deep Learning Surrogate Models**
-    * *Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A.*
-    * (Draft Under Review)
+---
+
+**Ali, G., Sheikh, K. A., Shahbaz, F., Mushtaq, A., Zafar, M. I., and Jabbar, A.** **"Real-Time Thermal Field Prediction in Data Centers Using Deep Learning Surrogate Models."** (Draft Under Review).
+
 ---
 
 
