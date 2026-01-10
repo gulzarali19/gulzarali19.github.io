@@ -4,12 +4,6 @@ title: "Certificates"
 permalink: /certificates/
 author_profile: true
 ---
----
-layout: archive
-title: "Certificates"
-permalink: /certificates/
-author_profile: true
----
 
 ## Academic & Conference Honors
 
