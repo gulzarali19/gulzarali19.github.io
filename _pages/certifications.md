@@ -23,6 +23,11 @@ I have completed various certifications in Data Science, Project Management, and
 
 ## 🛠️ Technical & Professional Certifications
 
+* **Introduction to Ansys CFD** (Nov 2025)
+  *Fluid Codes & KAUST (King Abdullah University of Science and Technology)*
+  * Professional training in Computational Fluid Dynamics organized by KAUST.
+  ![Ansys CFD Certificate](/images/ansys-cfd-cert.png)
+
 * **Introduction to Symbolic Math with MATLAB** (Feb 2024)
   *MathWorks*
   * Completed 100% of the training course on symbolic math applications.
@@ -51,10 +56,9 @@ I have completed various certifications in Data Science, Project Management, and
 * **CFD Simulation Through a Centrifugal Pump** (Jun 2022)
   *Coursera Project Network* — [Verify Credential](https://coursera.org/verify/UY9NNCXVCHTS)
   * Technical simulation project using Computational Fluid Dynamics.
-  ![CFD Certificate](/images/cfd-cert.png)
+  ![CFD Pump Certificate](/images/cfd-pump-cert.png)
 
 * **How to Write and Publish a Scientific Paper** (Feb 2022)
   *École Polytechnique* — [Verify Credential](https://coursera.org/verify/9SUKFSQPWTLS)
   * Specialized training on academic research writing and publication.
   ![Scientific Writing Certificate](/images/writing-cert.png)
-
