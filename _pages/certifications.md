@@ -23,6 +23,13 @@ I have completed various certifications in Data Science, Project Management, and
 
 ## 🛠️ Technical & Professional Certifications
 
+* **Developing Scalable CFD Applications Powered by HPC** (Oct 2025)
+  [cite_start]*DenseFusion (Private) Limited & Redstart Technology Solutions* [cite: 4, 7]
+  * [cite_start]Completed a 4-month internship (July 1st to October 31st) focused on Computational Fluid Dynamics (CFD) and High-Performance Computing (HPC). [cite: 7, 9]
+  * [cite_start]Gained hands-on experience in the development and optimization of scalable CFD applications. [cite: 9, 10]
+  * [cite_start]Conducted collaborative project work to enhance technical knowledge and applied research skills. [cite: 11]
+  ![DenseFusion Internship Certificate](/images/densefusion-internship.png)
+
 * **Introduction to Ansys CFD** (Nov 2025)
   *Fluid Codes & KAUST (King Abdullah University of Science and Technology)*
   * Professional training in Computational Fluid Dynamics organized by KAUST.
@@ -62,3 +69,4 @@ I have completed various certifications in Data Science, Project Management, and
   *École Polytechnique* — [Verify Credential](https://coursera.org/verify/9SUKFSQPWTLS)
   * Specialized training on academic research writing and publication.
   ![Scientific Writing Certificate](/images/writing-cert.png)
+
