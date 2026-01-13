@@ -24,7 +24,7 @@ I have completed various certifications in Data Science, Project Management, and
 ## 🛠️ Technical & Professional Certifications
 
 * **Developing Scalable CFD Applications Powered by HPC** (Oct 2025)
-  *DenseFusion (Private) Limited & Redstart Technology Solutions* [cite: 4, 7]
+  *DenseFusion & Redstart Technology Solutions*
   * Completed a 4-month internship focused on Computational Fluid Dynamics (CFD) and High-Performance Computing (HPC).
   ![DenseFusion Internship Certificate](/images/densefusion-internship.png)
 
