@@ -33,11 +33,6 @@ I have completed various certifications in Data Science, Project Management, and
   * Professional training in Computational Fluid Dynamics organized by KAUST.
   ![Ansys CFD Certificate](/images/ansys-cfd-cert.png)
 
-* **Introduction to Symbolic Math with MATLAB** (Feb 2024)
-  *MathWorks*
-  * Completed 100% of the training course on symbolic math applications.
-  ![MATLAB Certificate](/images/matlab-cert.png)
-
 * **Foundations of Project Management** (Sep 2022)
   *Google via Coursera* — [Verify Credential](https://coursera.org/verify/3DABJ266SNAV)
   * Professional certificate covering project lifecycles and methodologies.
@@ -52,11 +47,6 @@ I have completed various certifications in Data Science, Project Management, and
   *Indus Motor Company & United Nations Association of Pakistan*
   * Ecological conservation and workplace efficiency program.
   ![Toyota 5S Certificate](/images/toyota-5s-cert.png)
-
-* **Data Analysis with Excel Pivot Tables** (Nov 2022)
-  *365 Data Science*
-  * Advanced data manipulation and visualization using Excel.
-  ![365 Data Science Certificate](/images/excel-pivot-cert.png)
 
 * **CFD Simulation Through a Centrifugal Pump** (Jun 2022)
   *Coursera Project Network* — [Verify Credential](https://coursera.org/verify/UY9NNCXVCHTS)
