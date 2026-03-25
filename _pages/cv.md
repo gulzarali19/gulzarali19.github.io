@@ -16,7 +16,7 @@ redirect_from:
     <div class="cv-item-title">M.S. in Computational Sciences and Engineering</div>
     <div class="cv-item-meta">
       National University of Sciences and Technology (NUST), Islamabad<br>
-      <span class="cv-item-date">2023 – Present</span>
+      <span class="cv-item-date">2023 – 2025</span>
     </div>
   </div>
 
@@ -136,7 +136,7 @@ redirect_from:
       <li>Numerical Modelling</li>
       <li>Sketching</li>
       <li>Badminton</li>
-      <li>Public speaking and mentoring young STEM students</li>
+      <li>Hiking</li>
     </ul>
   </div>
 </div>
