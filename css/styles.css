@@ -1,0 +1,490 @@
+/* ========================================
+   TYPOGRAPHY & GLOBAL STYLES
+   ======================================== */
+
+* {
+    font-family: 'Outfit', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: -0.02em;
+}
+
+h1 {
+    font-size: 3.75rem;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+body {
+    font-size: 1.25rem;
+    line-height: 1.7;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* ========================================
+   LIGHT MODE - DEFAULT (TEAL/PURPLE SCHEME)
+   ======================================== */
+
+body {
+    background-color: #F8FAFC;
+    color: #0F172A;
+    font-size: 1.25rem;
+    line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0F172A;
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: -0.02em;
+}
+
+h1 {
+    font-size: 3.75rem;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+a {
+    color: #0D9488;
+}
+
+a:hover {
+    color: #0F766E;
+}
+
+section {
+    background-color: #F8FAFC;
+}
+
+nav {
+    background-color: #F8FAFC;
+    border-color: #E2E8F0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #F1F5F9;
+    border-color: #E2E8F0;
+    color: #475569;
+}
+
+.border-b {
+    border-color: #E2E8F0;
+}
+
+.text-secondary {
+    color: #475569;
+}
+
+.bg-card {
+    background-color: #F1F5F9;
+}
+
+/* Hero section background variation - Light Mode */
+#home {
+    background: linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 100%);
+}
+
+/* ========================================
+   DARK MODE (TEAL SCHEME)
+   ======================================== */
+
+html.dark-mode {
+    color-scheme: dark;
+}
+
+html.dark-mode body {
+    background-color: #0B0F19;
+    color: #F9FAFB;
+}
+
+html.dark-mode h1, html.dark-mode h2, html.dark-mode h3, 
+html.dark-mode h4, html.dark-mode h5, html.dark-mode h6 {
+    color: #F9FAFB;
+}
+
+html.dark-mode a {
+    color: #2DD4BF;
+}
+
+html.dark-mode a:hover {
+    color: #5EEAD4;
+}
+
+html.dark-mode section {
+    background-color: #0B0F19;
+}
+
+html.dark-mode nav {
+    background-color: #111827;
+    border-color: #1F2937;
+}
+
+html.dark-mode footer {
+    background-color: #111827;
+    border-color: #1F2937;
+    color: #9CA3AF;
+}
+
+html.dark-mode .border-b {
+    border-color: #2DD4BF;
+}
+
+html.dark-mode .text-secondary {
+    color: #9CA3AF;
+}
+
+html.dark-mode .bg-card {
+    background-color: #1F2937;
+}
+
+/* Hero section background variation - Dark Mode */
+html.dark-mode #home {
+    background: linear-gradient(135deg, #111827 0%, #0B0F19 50%, #1a1f2e 100%), linear-gradient(90deg, rgba(13, 148, 136, 0.1) 0%, rgba(124, 58, 237, 0.1) 100%);
+}
+
+/* ========================================
+   NAVIGATION
+   ======================================== */
+
+.logo {
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: -0.5px;
+    color: #0D9488;
+}
+
+.nav-link {
+    transition: color 0.3s ease;
+    font-weight: 500;
+    font-size: 0.875rem;
+    color: #475569;
+}
+
+.nav-link:hover {
+    color: #0D9488;
+}
+
+.search-input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 1.125rem;
+    color: #0F172A;
+}
+
+html.dark-mode .search-input {
+    color: #F9FAFB;
+}
+
+.search-input::placeholder {
+    color: #94A3B8;
+}
+
+html.dark-mode .search-input::placeholder {
+    color: #9CA3AF;
+}
+
+.theme-toggle {
+    transition: all 0.3s ease;
+    background-color: #E0F2FE;
+    color: #0D9488;
+}
+
+.theme-toggle:hover {
+    background-color: #CCFBF1;
+    color: #0F766E;
+}
+
+/* ========================================
+   PROFILE & SOCIAL ICONS
+   ======================================== */
+
+.profile-image {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+
+html.dark-mode .profile-image {
+    border-color: #2DD4BF;
+}
+
+.social-icon {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    background-color: #E0F2FE;
+    color: #0D9488;
+}
+
+html.dark-mode .social-icon {
+    background-color: #1F2937;
+    color: #2DD4BF;
+}
+
+.social-icon:hover {
+    background-color: #CCFBF1;
+    color: #0F766E;
+}
+
+/* ========================================
+   TYPOGRAPHY & SECTIONS
+   ======================================== */
+
+.section-heading {
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 32px;
+    letter-spacing: -0.02em;
+    color: #0f172a;
+}
+
+html.dark-mode .section-heading {
+    color: #ffffff;
+}
+
+.bio-section {
+    line-height: 1.7;
+    font-size: 1.25rem;
+}
+
+.bio-section p {
+    color: #4b5563;
+    margin-bottom: 1rem;
+}
+
+html.dark-mode .bio-section p {
+    color: #d1d5db;
+}
+
+/* ========================================
+   EXPERIENCE SECTION
+   ======================================== */
+
+#experience {
+    background-color: #ffffff;
+}
+
+html.dark-mode #experience {
+    background-color: #0f172a;
+}
+
+.experience-card {
+    background-color: #ffffff;
+    border-color: #e2e8f0;
+    color: #1e293b;
+}
+
+.experience-card:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+}
+
+html.dark-mode .experience-card {
+    background-color: #111827;
+    border-color: #1f2937;
+    color: #f1f5f9;
+}
+
+html.dark-mode .experience-card:hover {
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.3);
+}
+
+.experience-badge {
+    background-color: #f1f5f9;
+    color: #0D9488;
+}
+
+html.dark-mode .experience-badge {
+    background-color: #1f2937;
+    color: #0D9488;
+}
+
+.experience-title {
+    color: #1e293b;
+    font-weight: 600;
+}
+
+html.dark-mode .experience-title {
+    color: #ffffff;
+}
+
+.experience-company {
+    color: #64748b;
+}
+
+html.dark-mode .experience-company {
+    color: #9ca3af;
+}
+
+.experience-meta {
+    color: #9ca3af;
+}
+
+html.dark-mode .experience-meta {
+    color: #9ca3af;
+}
+
+.timeline-line {
+    background-color: #e5e7eb;
+}
+
+html.dark-mode .timeline-line {
+    background-color: #374151;
+}
+
+.timeline-placeholder {
+    background-color: #f8fafc;
+    border-color: #cbd5e1;
+    color: #a8b0b8;
+}
+
+html.dark-mode .timeline-placeholder {
+    background-color: #1e293b;
+    border-color: #475569;
+    color: #64748b;
+}
+
+/* ========================================
+   LISTS & ITEMS
+   ======================================== */
+
+.list-item {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px;
+    font-size: 1.125rem;
+    line-height: 1.7;
+}
+
+.list-icon {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    margin-top: 2px;
+    color: #0D9488;
+}
+
+html.dark-mode .list-icon {
+    color: #2DD4BF;
+}
+
+/* ========================================
+   EDUCATION SECTION
+   ======================================== */
+
+.interests-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+}
+
+@media (max-width: 768px) {
+    .interests-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+}
+
+.education-item {
+    margin-bottom: 28px;
+}
+
+.education-degree {
+    font-weight: 600;
+    margin-bottom: 4px;
+    font-size: 1.125rem;
+}
+
+.education-school {
+    font-size: 1.125rem;
+    color: #666666;
+}
+
+html.dark-mode .education-school {
+    color: #a0a0a0;
+}
+
+.education-info {
+    font-size: 1.125rem;
+    margin-top: 4px;
+    color: #999999;
+}
+
+html.dark-mode .education-info {
+    color: #9ca3af;
+}
+
+/* ========================================
+   PUBLICATION CARDS
+   ======================================== */
+
+.publication-card {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    background-color: #F1F5F9;
+}
+
+html.dark-mode .publication-card {
+    background-color: #1F2937;
+}
+
+.publication-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+html.dark-mode .publication-card:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.publication-year {
+    display: inline-block;
+    font-size: 1.125rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin-left: 8px;
+    background-color: #E0F2FE;
+    color: #0D9488;
+}
+
+html.dark-mode .publication-year {
+    background-color: #0B0F19;
+    color: #2DD4BF;
+}
+
+/* ========================================
+   RESEARCH AREAS BULLETS
+   ======================================== */
+
+.research-bullet {
+    background-color: #0D9488;
+}
+
+html.dark-mode .research-bullet {
+    background-color: #2DD4BF;
+}
